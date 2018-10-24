@@ -1,0 +1,5 @@
+package agent;
+
+public enum PlayerType {
+    RANDOM_AGENT, MINIMUM_AGENT, MAXMIN_AGENT, MCTS_AGENT, HUMAN, MCTS_GROUP_AGENT3, MCTS_BIAS;
+}
