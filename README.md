@@ -1,7 +1,7 @@
 # ingeniuous-mcts
 Java implementation of the board game ingenious with various Monte Carlo Tree Search versions and enhancements
 
-Description of the game: https://en.wikipedia.org/wiki/Ingenious_(board_game)
+Description of the game: [here](https://en.wikipedia.org/wiki/Ingenious_(board_game))
 
 Monte Carlo Tree Search (MCTS): http://mcts.ai/pubs/mcts-survey-master.pdf
 
